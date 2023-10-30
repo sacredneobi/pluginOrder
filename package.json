@@ -1,0 +1,23 @@
+{
+  "name": "plugin",
+  "caption": "orderXXX",
+  "version": "0.0.1",
+  "description": "Плагин для заказа \"orderXXX\"",
+  "icon": "order",
+  "main": "index.js",
+  "typeModule": "order",
+  "url": "https://youtu.be/x54ImVpGInY",
+  "scripts": {
+    "start": "nodemon index.js isSingle"
+  },
+  "keywords": [
+    "module",
+    "sacred",
+    "sacred app's"
+  ],
+  "author": "SACRED APP's",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
